@@ -25,6 +25,9 @@ Or visit the live site:
 
 
 ---
+## Additional Resources
+
+You can check out this [Single Page CV project guide](https://roadmap.sh/projects/single-page-cv)
 
 ##  Contact
 
