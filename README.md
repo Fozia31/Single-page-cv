@@ -19,9 +19,6 @@ To view the CV:
 1. Download or clone this repository.
 2. Open `index.html` in any modern web browser.
 
-Or visit the live site:  
- https://fozia31.github.io/Single-page-cv/  
-2. Open `single-page-cv.html` in any modern web browser.
 
 Or visit the live site:  
          https://fozia31.github.io/Single-page-cv/
