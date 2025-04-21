@@ -20,7 +20,7 @@ To view the CV:
 2. Open `index.html` in any modern web browser.
 
 Or visit the live site:  
-[https://Fozia31.github.io/single-page-cv]  
+ https://fozia31.github.io/Single-page-cv/  
 
 
 ---
