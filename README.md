@@ -17,10 +17,10 @@ Engineering student at ASTU.
 To view the CV:
 
 1. Download or clone this repository.
-2. Open `singlePage-CV.html` in any modern web browser.
+2. Open `singlePage_CV.html` in any modern web browser.
 
 Or visit the live site:  
-`https://Fozia31.github.io/single-page-cv/`  
+`https://Fozia31.github.io/singlePage_CV/`  
 
 
 ---
